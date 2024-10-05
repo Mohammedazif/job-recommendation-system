@@ -44,7 +44,7 @@ This repository contains a simple job recommendation system built using Flask (f
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/job-recommendation-system.git
+git clone https://github.com/mohammedazif/job-recommendation-system.git
 cd job-recommendation-system
 ```
 
